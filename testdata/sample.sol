@@ -1,3 +1,7 @@
+
+import "./imp.sol"
+
+
 contract Sample {
   // vars
   uint moo;
