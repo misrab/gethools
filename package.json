@@ -25,5 +25,9 @@
   "dependencies": {
     "commander": "^2.9.0",
     "web3": "^0.16.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "yargs": "^4.7.1"
   }
 }

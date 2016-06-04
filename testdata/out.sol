@@ -1,7 +1,30 @@
 
-import "./imp1.sol"
-import "./imp2.sol"
-import "./imp0.sol"
+
+contract Import0 {
+  function() {
+  }
+
+  function b() returns (bool maybe) { return true }
+}
+
+
+
+contract Import1 {
+  function() {
+  }
+
+  function b() returns (bool maybe) { return true }
+}
+
+
+contract Import2 {
+  function() {
+  }
+
+  function b() returns (bool maybe) { return true }
+}
+
+
 
 contract Sample{
   // vars

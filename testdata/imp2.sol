@@ -1,4 +1,6 @@
-contract Import {
+import "./imp0.sol"
+
+contract Import2 {
   function() {
   }
 
