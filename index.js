@@ -20,21 +20,3 @@ program
     functions[functionName](args);
   })
   .parse(process.argv);
-
-// program
-//   .arguments('<functionName>')
-//   // .option('-u, --username <username>', 'The user to authenticate as')
-//   // .option('-p, --password <password>', 'The user\'s password')
-//   .action(function(functionName) {
-//     //  console.log('user: %s pass: %s file: %s',
-//     //      program.username, program.password, file);
-//     console.log(functionName);
-//     if (!functions[functionName]) {
-//       console.log('Invalid function name');
-//       return;
-//     }
-//   })
-//   .parse(process.argv);
-
-
-// console.log('Hello, world!');

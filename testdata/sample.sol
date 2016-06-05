@@ -25,7 +25,7 @@ contract Sample{
   }
 
   // true function
-  function x(uint a, address b) return (bool izzit) {
+  function x(uint a, address b) returns (bool izzit) {
 
   }
 
